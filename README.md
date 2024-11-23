@@ -28,16 +28,16 @@ Developed a user-level library in **C** to replicate Unix functionalities like `
 Feel free to explore my repositories for more open-source projects, including my work on microservices, backend APIs, and containerization with **Docker** and **Kubernetes**.
 
 ## 📈 GitHub Stats
-![Shashwenth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true)
+![Shashwenth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwenth&show_icons=true&hide_title=true&count_private=true)
 
 ## 🏆 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashwenth)
 
 ## 💬 Let's Connect
 - ✉️ **Email**: [shashwenth.m.s@gmail.com](mailto:shashwenth.m.s@gmail.com)
-- 🔗 **LinkedIn**: [Shashwenth Muralidharan](https://www.linkedin.com/in/shashwenth-muralidharan)
-- 💼 **Portfolio**: [shashwenthm.com](https://shashwenthm.com)
-- 📂 **GitHub**: [Shashwenth's GitHub](https://github.com/yourusername)
+- 🔗 **LinkedIn**: [Shashwenth Muralidharan](https://www.linkedin.com/in/shashwenthm/)
+- 💼 **Portfolio**: [My Portfolio](https://www.linkedin.com/in/shashwenthm/)
+- 📂 **GitHub**: [Shashwenth's GitHub](https://github.com/Shashwenth)
 
 ## 🛠️ Technologies & Tools
 
