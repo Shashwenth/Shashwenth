@@ -14,7 +14,7 @@ I love building reliable, scalable software and enjoy working with both backend 
 - 📚 Outside of coding, I enjoy reading tech blogs and exploring new programming languages.
 
 ## 🌱 I'm Currently Learning
-- Machine Learning and AI 🌟
+- Rust 🌟
 - Cloud Infrastructure and DevOps 🛠️
 
 ## 🔨 Projects & Open-Source
