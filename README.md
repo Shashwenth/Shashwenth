@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hello, I'm Shashwenth Muralidharan 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a Master's in Computer Science from Rutgers University. I specialize in backend development, database administration, and I'm on a journey to become a Full Stack Developer 🚀.
@@ -26,6 +24,9 @@ Developed a user-level library in **C** to replicate Unix functionalities like `
 
 ### [Other Repositories](https://github.com/yourusername)
 Feel free to explore my repositories for more open-source projects, including my work on microservices, backend APIs, and containerization with **Docker** and **Kubernetes**.
+
+## 🌍 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwenth-m&langs_count=5&layout=compact)
 
 ## 📈 GitHub Stats
 ![Shashwenth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwenth&show_icons=true&hide_title=true&count_private=true)
