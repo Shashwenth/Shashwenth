@@ -32,6 +32,9 @@ Feel free to explore my repositories for more open-source projects, including my
 ## 🏆 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashwenth)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwenth&layout=compact&langs_count=8&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 💬 Let's Connect
 - ✉️ **Email**: [shashwenth.m.s@gmail.com](mailto:shashwenth.m.s@gmail.com)
 - 🔗 **LinkedIn**: [Shashwenth Muralidharan](https://www.linkedin.com/in/shashwenthm/)
