@@ -32,7 +32,8 @@ Feel free to explore my repositories for more open-source projects, including my
 ## 🏆 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashwenth)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwenth&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwenth&layout=compact&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
