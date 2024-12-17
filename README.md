@@ -32,7 +32,8 @@ Feel free to explore my repositories for more open-source projects, including my
 ## 🏆 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashwenth)
 
-## My Top Languages:
+## 💻 My Top Programming Languages
+
 I am not very much interested in showing this because I am a software engineer and not a language programmer. I use what I feel is the best for my project. However, here are some of the languages that I have used. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwenth&layout=compact&hide=jupyter%20notebook,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
