@@ -33,9 +33,9 @@ Feel free to explore my repositories for more open-source projects, including my
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashwenth)
 
 ## My Top Languages:
-I am not very much interested in showing this because I am a software engineer and not a language programmer. I use what I feel is the best for my project. But still here are the languages that I have used. 
+I am not very much interested in showing this because I am a software engineer and not a language programmer. I use what I feel is the best for my project. However, here are some of the languages that I have used. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwenth&layout=compact&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwenth&layout=compact&hide=jupyter%20notebook,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
