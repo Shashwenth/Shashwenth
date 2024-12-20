@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a Master's
 I love building reliable, scalable software and enjoy working with both backend and frontend technologies. My journey in software engineering has been both challenging and rewarding, and I’m constantly learning and adapting to new technologies.
 
 - 🎓 **Master's in Computer Science** from Rutgers University-New Brunswick, GPA: 3.87
-- 🔧 **Tech Stacks**: Java, Python, JavaScript, SpringBoot, React.js, Node.js, AWS, Kubernetes, Docker, MySQL, PostgreSQL, MongoDB
+- 🔧 **Tech Stacks**: Java, Python, JavaScript, SpringBoot, React.js, Node.js, AWS, Kubernetes, Docker, MySQL, PostgreSQL, MongoDB, Ruby
 - 🚀 Currently focused on full-stack development and SaaS project building.
 - 📚 Outside of coding, I enjoy reading tech blogs and exploring new programming languages.
 
