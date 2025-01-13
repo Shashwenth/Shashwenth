@@ -13,6 +13,7 @@ I love building reliable, scalable software and enjoy working with both backend 
 
 ## 🌱 I'm Currently Learning
 - Rust 🌟
+- Kotlin For Android Development
 - Cloud Infrastructure and DevOps 🛠️
 
 ## 🔨 Projects & Open-Source
