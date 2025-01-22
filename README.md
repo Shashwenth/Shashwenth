@@ -30,8 +30,7 @@ Feel free to explore my repositories for more open-source projects, including my
 ## 📈 GitHub Stats
 ![Shashwenth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwenth&show_icons=true&hide_title=true&count_private=true)
 
-## 🏆 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashwenth)
+
 
 ## 💻 My Top Programming Languages
 
