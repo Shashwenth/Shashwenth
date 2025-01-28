@@ -1,6 +1,6 @@
 # Hello, I'm Shashwenth Muralidharan 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a Master's in Computer Science from Rutgers University. I specialize in backend development, database administration, and I'm on a journey to become a Full Stack Developer 🚀.
+Welcome to my GitHub profile! I am a passionate software engineer with a Master's in Computer Science from Rutgers University. I specialize in backend development, database administration, and I'm on a journey to become a Full Stack Developer 🚀.
 
 ## 💻 About Me
 
